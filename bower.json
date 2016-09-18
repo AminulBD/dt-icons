@@ -1,0 +1,24 @@
+{
+  "name": "dt-icons",
+  "description": "icons from linea.io",
+  "main": "styles.css",
+  "keywords": [
+    "icons",
+    "line",
+    "icons",
+    "linea.io"
+  ],
+  "authors": [
+    "Dario Ferrando",
+    "Aminul Islam"
+  ],
+  "license": "MIT",
+  "homepage": "http://linea.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
